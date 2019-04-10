@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+MonteiroViewTool::Renderer.copyright('Jeff Monteiro', 'All rights reserved')
+```
 
 ## Development
 
